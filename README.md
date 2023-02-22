@@ -1,11 +1,10 @@
 # Basic-Website
 
-
 Timepass
 
-# Website-Preview
+# Website-Preview Link
 
-
+https://dr460ngeek.github.io/Basic-Website/
 
 # Points to be noted
 
